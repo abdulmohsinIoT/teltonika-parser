@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "complete-teltonika-parser": "^0.3.4",
+    "fastify": "^3.21.1"
+  }
+}
