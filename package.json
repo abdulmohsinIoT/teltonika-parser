@@ -1,6 +1,15 @@
 {
+  "name": "teltonika-parser-complete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "complete-teltonika-parser": "^0.3.4",
-    "fastify": "^3.21.1"
+    "fastify": "^3.22.1",
+    "lodash": "^4.17.21"
   }
 }
